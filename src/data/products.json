@@ -1,0 +1,12 @@
+[
+  { "id": 1, "name": "Wireless Mouse", "price": 29.99, "category": "electronics", "inStock": true },
+  { "id": 2, "name": "Mechanical Keyboard", "price": 89.99, "category": "electronics", "inStock": true },
+  { "id": 3, "name": "Desk Lamp", "price": 19.99, "category": "furniture", "inStock": false },
+  { "id": 4, "name": "Notebook", "price": 5.49, "category": "stationery", "inStock": true },
+  { "id": 5, "name": "USB-C Hub", "price": 49.99, "category": "electronics", "inStock": true },
+  { "id": 6, "name": "Standing Desk", "price": 349.99, "category": "furniture", "inStock": true },
+  { "id": 7, "name": "Ballpoint Pens (12pk)", "price": 3.99, "category": "stationery", "inStock": true },
+  { "id": 8, "name": "Monitor Stand", "price": 39.99, "category": "furniture", "inStock": false },
+  { "id": 9, "name": "Webcam HD", "price": 74.99, "category": "electronics", "inStock": true },
+  { "id": 10, "name": "Sticky Notes", "price": 2.99, "category": "stationery", "inStock": true }
+]
